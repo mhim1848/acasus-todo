@@ -1,0 +1,1 @@
+export type Priority = 'low' | 'standard' | 'high';
